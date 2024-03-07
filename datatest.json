@@ -1,0 +1,506 @@
+[
+ {
+   "level1": "Acme",
+   "person": "Max Armstrong",
+   "kpi": 75,
+   "level2": "",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Dwayne Billiot",
+   "kpi": 80,
+   "level2": "North America",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Robert C. Carmichael",
+   "kpi": 50,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Edward Foster",
+   "kpi": 60,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Jodie Hilton",
+   "kpi": 20,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Finlay Akhtar",
+   "kpi": 10,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": "Location 2"
+ },
+ {
+   "level1": "Acme",
+   "person": "Joe Young",
+   "kpi": 34,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": "Location 3"
+ },
+ {
+   "level1": "Acme",
+   "person": "George Stephens",
+   "kpi": 85,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 2",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Keira Hughes",
+   "kpi": 25,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 2",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Abigail Allen",
+   "kpi": 40,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 3",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Spencer Preston",
+   "kpi": 89,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 3",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Scott Begum",
+   "kpi": 97,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 4",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Rebecca Barnes",
+   "kpi": 10,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 4",
+   "level5": "Location 2"
+ },
+ {
+   "level1": "Acme",
+   "person": "Zak Hope",
+   "kpi": 55,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 4",
+   "level5": "Location 3"
+ },
+ {
+   "level1": "Acme",
+   "person": "Eleanor Atkins",
+   "kpi": 29,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 4",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Scott McCarthy",
+   "kpi": 87,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 5",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Charles Sena",
+   "kpi": 40,
+   "level2": "North America",
+   "level3": "Canada",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Madison Powell",
+   "kpi": 49,
+   "level2": "North America",
+   "level3": "Canada",
+   "level4": "Area 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Scarlett Rowe",
+   "kpi": 30,
+   "level2": "North America",
+   "level3": "Canada",
+   "level4": "Area 1",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Tilly Weston",
+   "kpi": 50,
+   "level2": "North America",
+   "level3": "Canada",
+   "level4": "Area 1",
+   "level5": "Location 2"
+ },
+ {
+   "level1": "Acme",
+   "person": "William Miles",
+   "kpi": 70,
+   "level2": "North America",
+   "level3": "Canada",
+   "level4": "Area 2",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Isabella Oliveira Barbosa",
+   "kpi": 90,
+   "level2": "LATAM",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Miguel Ferreira",
+   "kpi": 60,
+   "level2": "LATAM",
+   "level3": "Mexico",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Gustavo Martins Gomes",
+   "kpi": 60,
+   "level2": "LATAM",
+   "level3": "Mexico",
+   "level4": "Location 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Gabrielle Goncalves",
+   "kpi": 30,
+   "level2": "LATAM",
+   "level3": "Mexico",
+   "level4": "Location 2",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Sofia Carvalho",
+   "kpi": 66,
+   "level2": "LATAM",
+   "level3": "Mexico",
+   "level4": "Location 3",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Renan Araujo Pinto",
+   "kpi": 10,
+   "level2": "LATAM",
+   "level3": "Argentina",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Emily Araujo",
+   "kpi": 50,
+   "level2": "LATAM",
+   "level3": "Argentina",
+   "level4": "Location 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Isabelle Almeida",
+   "kpi": 37,
+   "level2": "LATAM",
+   "level3": "Brazil",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "JÃºlio Ferreira Almeida",
+   "kpi": 98,
+   "level2": "LATAM",
+   "level3": "Cuba",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Eduarda Melo Cardoso",
+   "kpi": 40,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Amanda Gomes Oliveira",
+   "kpi": 60,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Miguel Pereira",
+   "kpi": 40,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 2",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Danilo Lima Dias",
+   "kpi": 10,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 3",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Estevan Silva Cunha",
+   "kpi": 34,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 3",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Enzo Barros Souza",
+   "kpi": 70,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 3",
+   "level5": "Location 2"
+ },
+ {
+   "level1": "Acme",
+   "person": "Livia Rodrigues Barbosa",
+   "kpi": 30,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 3",
+   "level5": "Location 3"
+ },
+ {
+   "level1": "Acme",
+   "person": "Miguel Cunha",
+   "kpi": 80,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 3",
+   "level5": "Location 4"
+ },
+ {
+   "level1": "Acme",
+   "person": "Pedro Souza Silva",
+   "kpi": 30,
+   "level2": "LATAM",
+   "level3": "Chile",
+   "level4": "Area 3",
+   "level5": "Location 5"
+ },
+ {
+   "level1": "Acme",
+   "person": "Alisha Spencer",
+   "kpi": 60,
+   "level2": "EMEA",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Hayden Foster",
+   "kpi": 20,
+   "level2": "EMEA",
+   "level3": "UK",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Jacob Summers",
+   "kpi": 10,
+   "level2": "EMEA",
+   "level3": "France",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Phoebe King",
+   "kpi": 30,
+   "level2": "EMEA",
+   "level3": "Italy",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Joel Whitehead",
+   "kpi": 50,
+   "level2": "EMEA",
+   "level3": "Italy",
+   "level4": "Location 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Ruby Little",
+   "kpi": 70,
+   "level2": "EMEA",
+   "level3": "Spain",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Mollie Hartley",
+   "kpi": 20,
+   "level2": "EMEA",
+   "level3": "Spain",
+   "level4": "Location 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Alfie Reed",
+   "kpi": 60,
+   "level2": "EMEA",
+   "level3": "Spain",
+   "level4": "Location 2",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Natasha Winter",
+   "kpi": 55,
+   "level2": "APAC",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Cameron White",
+   "kpi": 55,
+   "level2": "APAC",
+   "level3": "Australia",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Sophia Buckley",
+   "kpi": 25,
+   "level2": "APAC",
+   "level3": "New Zealand",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Yue Ying Tsou",
+   "kpi": 35,
+   "level2": "APAC",
+   "level3": "China",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Amar Ayyar",
+   "kpi": 45,
+   "level2": "APAC",
+   "level3": "India",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Arpit Sinha",
+   "kpi": 55,
+   "level2": "APAC",
+   "level3": "India",
+   "level4": "Area 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Chandika Bhattacharya",
+   "kpi": 65,
+   "level2": "APAC",
+   "level3": "India",
+   "level4": "Area 1",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Jaya Prabhu",
+   "kpi": 75,
+   "level2": "APAC",
+   "level3": "India",
+   "level4": "Area 1",
+   "level5": "Location 2"
+ },
+ {
+   "level1": "Acme",
+   "person": "Santosh Bhardvaj",
+   "kpi": 85,
+   "level2": "APAC",
+   "level3": "India",
+   "level4": "Area 1",
+   "level5": "Location 3"
+ }
+]
